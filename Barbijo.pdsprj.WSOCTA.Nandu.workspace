@@ -85,7 +85,7 @@
    </POPUP>
    <POPUP w="2546" x="6" flags="0000802b" y="125" h="1017" pid="1" iid="1">
     <PROPERTIES>
-     <ITEM name="Breakpoint 0">"",003B,0000,B0E6,CFFD,1
+     <ITEM name="Breakpoint 0">"",003C,0000,DAE8,CFFD,1
 </ITEM>
      <ITEM name="CaseSensitive">No</ITEM>
      <ITEM name="DISPADDRS">Yes</ITEM>
@@ -93,7 +93,7 @@
      <ITEM name="DISPOPCODES">No</ITEM>
      <ITEM name="FIXUPBPTS">Yes</ITEM>
      <ITEM name="WordsOnly">No</ITEM>
-     <ITEM name="nBreakpoints">1</ITEM>
+     <ITEM name="nBreakpoints">0</ITEM>
     </PROPERTIES>
    </POPUP>
    <POPUP w="300" x="-796" flags="0000000b" y="-497" h="100" pid="2" iid="1">

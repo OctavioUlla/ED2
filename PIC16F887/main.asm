@@ -332,6 +332,7 @@ TIMER0
 	    ;MOVF    PORTB,F     ; Se establece estado de referencia para la interrupci?n por PORTB
 	    BCF	    INTCON,RBIF  
 	    BSF	    INTCON,RBIE ; Se habilita interrupci?n por PORTB
+          RETURN
 	    
 SCAN	    	    
 	    CLRF    KEYNUM	; Se lleva a cero el contador del n?mero de tecla

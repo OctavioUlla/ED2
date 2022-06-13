@@ -73,7 +73,7 @@
    <POPUP w="14" x="4" flags="00000008" y="103" h="8" pid="7" iid="1">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="8" x="177" flags="80000002" y="264" h="8" pid="8" iid="1">
+   <POPUP w="8" x="177" flags="00000002" y="264" h="8" pid="8" iid="1">
     <PROPERTIES>
      <ITEM name="DataType">2</ITEM>
      <ITEM name="DispChars">Yes</ITEM>
@@ -85,7 +85,7 @@
    </POPUP>
    <POPUP w="2546" x="6" flags="0000802b" y="125" h="1017" pid="1" iid="1">
     <PROPERTIES>
-     <ITEM name="Breakpoint 0">"",003C,0000,DAE8,CFFD,1
+     <ITEM name="Breakpoint 0">"",00E5,0000,D9A8,C730,1
 </ITEM>
      <ITEM name="CaseSensitive">No</ITEM>
      <ITEM name="DISPADDRS">Yes</ITEM>
